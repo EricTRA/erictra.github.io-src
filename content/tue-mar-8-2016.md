@@ -7,4 +7,7 @@ Authors: Eric Van Steenbergen
 Summary: The level of frustration that can be caused by poor management decisions, based on FUD, is out of this world.
 
 It is indeed amazing how the wrong decisions made by the wrong people can have such an effect on our work environment.
-Installed on MacBook Pro
+Whatever project gets pulled out from some dark hole it rarely includes prior communication with technically skilled
+people. And with that I'm not referring to project managers or IT directors but to people that work with the technology 
+on a daily basis. The same people that will have to deal with the same project they were not involved with when the 
+shit hits the fan.
