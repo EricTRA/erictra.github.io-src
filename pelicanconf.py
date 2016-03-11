@@ -30,7 +30,7 @@ SOCIAL = (('LinkedIn profile', 'https://www.linkedin.com/in/ericvansteenbergen')
 
 DEFAULT_PAGINATION = 10
 
-THEME = "/usr/lib/python2.7/site-packages/pelican/themes/bootstrap2-dark"
+THEME = "/Users/ericvs/.virtualenvs/pelican/lib/python2.7/site-packages/pelican/themes/bootstrap2-dark"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

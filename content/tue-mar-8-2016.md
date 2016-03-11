@@ -7,3 +7,4 @@ Authors: Eric Van Steenbergen
 Summary: The level of frustration that can be caused by poor management decisions, based on FUD, is out of this world.
 
 It is indeed amazing how the wrong decisions made by the wrong people can have such an effect on our work environment.
+Installed on MacBook Pro
