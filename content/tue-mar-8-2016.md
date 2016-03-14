@@ -11,3 +11,9 @@ Whatever project gets pulled out from some dark hole it rarely includes prior co
 people. And with that I'm not referring to project managers or IT directors but to people that work with the technology 
 on a daily basis. The same people that will have to deal with the same project they were not involved with when the 
 shit hits the fan.
+
+[Update March 14]
+Another stupidity pulled by the 'distinguished' new management. Providing unneeded SSH access to unknowledgable people
+on a box from which they have access to the staging environment for ALL products! Nice going! So much for security
+and nobody taking care of business as they should. I'm starting to feel ashamed to work or even be related to a 
+company that allows such fuck ups. 
