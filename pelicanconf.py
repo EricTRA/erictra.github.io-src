@@ -21,7 +21,6 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
          ('A world without Linux', 'http://www.linuxfoundation.org/world-without-linux'),)
 
 # Social widget
